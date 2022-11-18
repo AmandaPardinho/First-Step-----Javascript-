@@ -1,2 +1,5 @@
-# First-Step-----Javascript-
-I Will need tô practice a lot
+# First-Step---JAVASCRIPT
+
+> I will need to practice a lot
+---
+
